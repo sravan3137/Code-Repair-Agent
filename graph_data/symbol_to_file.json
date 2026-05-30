@@ -1,0 +1,9 @@
+{
+    "App.main(String)": "repositories/complex_repo\\App.java",
+    "App.checkStatus(int)": "repositories/complex_repo\\App.java",
+    "Processor.process(String)": "repositories/complex_repo\\Processor.java",
+    "Processor.handle(int)": "repositories/complex_repo\\Processor.java",
+    "Processor.<init>(DataStore)": "repositories/complex_repo\\Processor.java",
+    "DataStore.addRecord(String)": "repositories/complex_repo\\DataStore.java",
+    "DataStore.retrieveRecord(int)": "repositories/complex_repo\\DataStore.java"
+}
